@@ -14,6 +14,7 @@ git_branches=(
   @the-maith-class
   @reading-inputs
   @constants
+  @exercise
   @casting
   @strings
   @arrays
